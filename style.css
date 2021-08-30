@@ -620,6 +620,12 @@ body{
     }
 }
 
+@media screen and (max-width:420px){
+    .section-2{
+        height: 130vh;
+    }
+}
+
 @media screen and (max-width:320px){
     html{
         font-size: 40%;
