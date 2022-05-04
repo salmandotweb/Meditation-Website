@@ -662,16 +662,4 @@ body{
     }
 }
 
-@media screen and (min-width:1450px){
-    html{
-    font-size: 90%;
-    }
-    .section-2{
-        padding: 0rem 10rem;
-        height: 110vh;
-    }
-    .section-1{
-        padding: 1rem;
-    }
-}
 
